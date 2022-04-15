@@ -1,28 +1,34 @@
-# Budget-Tracker
+# Tracker Budget-O-rama
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![Budget Tracker](/assets/main-image.gif)
 
 ## Description
-Budget-Tracker is a Progressive Web Application or PWA for short. with the Budget-Tracker app you can easily keep track of all your expenses, simply add a transaction, amount and if its a crdeit or debit and the app will help you balance everything. Using the app on a smartphone with low signal? no need to worry! Budget-Tracker stores all of your entries in case you have a slow connection and uploads them as soon as you come back online!
+
+Your challenge this week is to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection.
+
 ## Table of Contents
-* [Link](#link)
-* [Screenshot](#Scrrenshot)
-* [License](#license)
-* [Questions](#questions)
 
+- [Submission](#Submission)
+- [Screenshot](#Scrrenshot)
 
-## Link
+## Installation
+
+- Clone repo
+- Npm I
+- Start MongoDB
+- View application in localhost
+
+## Submission
+
 Checkout out the app!
 https://intense-island-01116.herokuapp.com/
 
-
 ## Screenshot
-<img src="./assets/screenshot.PNG" >
 
-## License
-E-commerce backend is licensed under the MIT License.
+<img src="./assets/main-screenshot.jpg" >
 
 ## Questions
-If you have any question please check out my GitHub https://github.com/ortizjavier10 or email me at ortiz.javier10@gmail.com .
 
+Link to my gitHub: https://github.com/socialcancer
 
+Email @ da@creatorfullstack.com

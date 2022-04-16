@@ -20,7 +20,7 @@ Your challenge this week is to update an existing budget tracker application to 
 
 ## Submission
 
-Checkout out the app!
+Use the application: https://pwa-money-tracker.herokuapp.com/
 
 ## Screenshot
 

@@ -1,6 +1,7 @@
 {
-  "name": "Budget Tracker",
-  "short_name": "Budget",
+  "name": "Tracker Budget-O-rama",
+  "short_name": "TBOR",
+  "description": "An app that allows you to track your spending!!!!",
   "icons": [
     {
       "src": "./icons/icon-72x72.png",
@@ -44,7 +45,7 @@
     }
   ],
   "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "background_color": "#bf716b",
   "start_url": "/index.html",
   "display": "standalone"
 }

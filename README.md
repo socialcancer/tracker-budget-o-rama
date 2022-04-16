@@ -21,7 +21,6 @@ Your challenge this week is to update an existing budget tracker application to 
 ## Submission
 
 Checkout out the app!
-https://intense-island-01116.herokuapp.com/
 
 ## Screenshot
 
